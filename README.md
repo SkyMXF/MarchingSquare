@@ -19,6 +19,6 @@ Find Contours in a picture by Marching Square Algorithm
 4. 从2中所找到的点开始，重复2.和3.的步骤。
 5. 部分链表中可能包含大量1.中所拓展的边缘，需要对对应的链表进行调整，删除边缘上的点，有时还需要进行切割。
 <br><br>
-有关MarchingSquare算法的信息参考：
+有关MarchingSquare算法的信息参考:<br>
 [Marching Squares Wiki](https://en.wikipedia.org/wiki/Marching_squares)<br>
 [利用marching square algorithm获取图形轮廓](http://blog.csdn.net/coolingcoding/article/details/17278959)<br>
